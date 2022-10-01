@@ -1,4 +1,6 @@
-'''1)Print the pattern-
+'''
+1)Print the pattern -
+
 a)*
   **
   ***
@@ -7,11 +9,11 @@ b)****
   ***
   **
   *
+  
 '''
 
 
-
-#Answers - 
+#Answer - 
 
 print("a)*")
 print("  **")
